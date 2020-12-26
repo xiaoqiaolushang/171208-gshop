@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "683158",
+      "name": "wo-de",
+      "font_class": "mine",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "837074",
+      "name": "mobile",
+      "font_class": "mobile",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "848564",
+      "name": "dingdan",
+      "font_class": "danju",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "848583",
+      "name": "geren1",
+      "font_class": "gerenzhongxin2",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1238582",
+      "name": "icon_search",
+      "font_class": "sousuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1288634",
+      "name": "shoujihao",
+      "font_class": "shoujihao",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5922261",
+      "name": "145_服务中心",
+      "font_class": "_fuwuzhongxin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7416849",
+      "name": "右箭头",
+      "font_class": "jiantou",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "7720065",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14055581",
+      "name": "我的订单",
+      "font_class": "wodedingdan",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "16846469",
+      "name": "会员",
+      "font_class": "huaban26",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "17280551",
+      "name": "外卖",
+      "font_class": "take-out",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "17895784",
+      "name": "积分商城",
+      "font_class": "jifenshangcheng",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
